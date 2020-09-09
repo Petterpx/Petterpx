@@ -7,11 +7,13 @@
 </p>
 
 
+ 
 
 
 
 
 
+<br/>
 
 <p align='center'>
 <a href="https://petterp.blog.csdn.net"><img height="30" src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gik6ctjaapj302p011mwy.jpg"></a>&nbsp;&nbsp;
@@ -20,6 +22,7 @@
 </p>
 
 
-一个Android 开发者，
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+<br/>
+[![Petterp github stats](https://github-readme-stats.vercel.app/api?username=Petterpx)](https://github.com/anuraghazra/github-readme-stats)
 
