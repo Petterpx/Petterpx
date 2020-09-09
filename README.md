@@ -6,7 +6,7 @@ I am Petterp, a follower of **Android-Jetpack & Kotlin & Flutter.** I am interes
 
 
 
-## Blog 👨‍💻‍
+## Blog 👨🏻‍💻 
 
 
 
