@@ -1,8 +1,4 @@
-
-
-# Petterp and Android
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am Petterp, a follower of **Android-Jetpack & Kotlin & Flutter.** I am interested in exploring new skills and unknown fields. I have unlimited motivation due to my love. 
 
@@ -10,7 +6,7 @@ I am Petterp, a follower of **Android-Jetpack & Kotlin & Flutter.** I am interes
 
 
 
-# Blog 👨‍💻‍
+## Blog 👨‍💻‍
 
 
 
@@ -21,7 +17,7 @@ I am Petterp, a follower of **Android-Jetpack & Kotlin & Flutter.** I am interes
 </p>
 
 
-
+## Github Stats🐬
 
 ![Petterp's github stats](https://github-readme-stats.vercel.app/api?username=Petterpx&show_icons=true&theme=radical)
 
